@@ -23,7 +23,7 @@ constexpr TInfo by_type() {
   return TInfo::BASIC;
 }
 
-//--------------------------------------------- DEFAULT BASES
+//---------------------------------------------  DEFAULT BASES
 
 template <
     typename T,
